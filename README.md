@@ -1,8 +1,9 @@
 ## 📊 Key Findings
 
 ### 1. Most Common Drug for High BP Patients
-* **Drug A and Drug B** are exclusively prescribed to patients with **HIGH** blood pressure. 
-* **Drug B** is heavily favored for older high blood pressure patients, while **Drug A** is targeted at younger demographics.
+* **DrugY** is the most frequent medication prescribed to patients with **HIGH** blood pressure, appearing **29 times** in the dataset.
+* **DrugA** (23 times) and **drugB** (20 times) are also commonly prescribed for high blood pressure conditions.
+
 
 ### 2. Average Age per Drug Group
 * **Drug B** has the highest average patient age at **61.0 years**.
